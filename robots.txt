@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://soazl.github.io/wWY/sitemap.wWY.gz
